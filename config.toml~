@@ -1,0 +1,15 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Docs site'
+theme = "hugo-theme-learn"
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+themeVariant = "blue"
+
+
+
+
+
+

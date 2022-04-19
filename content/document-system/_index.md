@@ -18,17 +18,17 @@ This documentation provide information about the document control system modules
 ![Magick](magic.gif) 
 {{% /expand %}}
 
-### Where can I access SDS?
+### Where can I access the SDS?
 
 **Publicly Accessible Information**<br>
 [SDS documents](http://docs.elitemetalfinishing.org/)
 
 {{% notice tip %}}
-Login information for the public is accessing through 
+Login for the public access to Safety Data Sheet is granted upon request.
 {{% /notice %}}
 
 
 **Controlled Documents**<br>
-_Require private privileges_
+Access to controlled document is restricted only to current Elite Metal Finishing, LLC employees.
 
 

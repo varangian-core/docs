@@ -14,15 +14,16 @@ This documentation provide information about the document control system modules
 
 ### How is this site implemented??
 
-{{% expand %}}
-How is it done?
-{{% /expand %}}
-{{% expand %}} 
+{{% expand "Our Secret" %}} 
 ![Magick](magic.gif) 
 {{% /expand %}}
 
 ### Where can I access SDS?
 
-[SDS documents] (http://docs.elitemetalfinishing.org/#/home/)
+**Publicly Accessible Information**
+[SDS documents](http://docs.elitemetalfinishing.org/#/home/)
+
+**Controlled Documents**
+_Require private privileges_
 
 

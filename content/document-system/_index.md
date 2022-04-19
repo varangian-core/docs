@@ -23,7 +23,7 @@ This documentation provide information about the document control system modules
 **Publicly Accessible Information**<br>
 [SDS documents](http://docs.elitemetalfinishing.org/)
 
-{{% notice danger %}}
+{{% notice tip %}}
 Login information for the public is accessing through 
 {{% /notice %}}
 

@@ -20,10 +20,15 @@ This documentation provide information about the document control system modules
 
 ### Where can I access SDS?
 
-**Publicly Accessible Information**
-[SDS documents](http://docs.elitemetalfinishing.org/#/home/)
+**Publicly Accessible Information**<br>
+[SDS documents](http://docs.elitemetalfinishing.org/)
 
-**Controlled Documents**
+{{% notice danger %}}
+Login information for the public is accessing through 
+{{% /notice %}}
+
+
+**Controlled Documents**<br>
 _Require private privileges_
 
 

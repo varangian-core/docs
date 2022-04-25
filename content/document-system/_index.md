@@ -8,9 +8,10 @@ pre = "<b>1 </b>"
 
 ### Chapter 1
 
-# Document System Info
+###DocVault Information
 
-This documentation provide information about the document control system modules. Modules may be both private and public. 
+
+This is a general information page site for the Docvault and other instances of document controlled systems.
 
 ### How is this site implemented??
 

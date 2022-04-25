@@ -19,7 +19,8 @@ After the fields are filled out click the button at the bottom of the screen to 
 
 ![advanced search button](/images/temp_assets/advanced_search.PNG)
 
-##### Recommended Search Parameters
+### Recommended Search Parameters
+
 Parameter| Values 
 ---|---
 Document file content| Keyword of text inside the document| file content| Keyword of text inside the document

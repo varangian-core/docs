@@ -6,14 +6,14 @@ weight: 0
 ### Basic Search 
 
 
-search bar is available upon login and under home screen view. The user can get to home screen view by click the logo/brand in the top left corner
+Search bar is available upon login and under home screen view. The user can get to home screen view by click the logo/brand in the top left corner
 
-Selection screen/dropdown can be used to fine tool the basic search if too many results are found.
+Selection screen/dropdown can be used to fine tune the basic search if too many results are found.
 
 ![basic search bar](/images/temp_assets/search.PNG)
 
 
-### Basic Search(Advanced Option)
+### Basic Search (Advanced Option)
 User can also click on the advanced search and enter fields with many parameters.
 After the fields are filled out click the button at the bottom of the screen to perform advanced search
 

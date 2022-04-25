@@ -6,7 +6,7 @@ weight: 1
 
 ### Introduction
 
-This is designated to server as a tutorial and technical guidance on utilizing 
+This is designated to serve as a tutorial and technical guidance on utilizing 
 Elite Metalfinishing, LLC various tools and components.
 
 

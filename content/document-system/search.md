@@ -11,12 +11,12 @@ search bar is available upon login and under home screen view. The user can get 
 
 Selection screen/dropdown can be used to fine tool the basic search if too many results are found.
 
-![basic search bar](/image![basic search bar](/images/temp_assets/search.PNG)
+![basic search bar](/images/temp_assets/search.PNG)
 
 
 
 User can also click on the advanced search and enter fields with many parameters.
 After the fields are filled out click the button at the bottom of the screen to perform advanced search
 
-![advanced search button](/images/temp_assetes/advanced%20search.PNG)
+![advanced search button](/images/temp_assets/advanced_search.PNG)
 

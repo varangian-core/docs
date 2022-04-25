@@ -21,7 +21,7 @@ The user can file the document in the specific folder under `cabinets/details`
 
 Certain users may create their own cabinet, and upload their own documents for individual use.
 
-![Cabinet folders](images/temp_assets/cabinet_folders.PNG)    
+![Cabinet folders](/images/temp_assets/cabinet_folders.PNG)    
 
 
 ### Searching by Favorites

@@ -14,9 +14,21 @@ Selection screen/dropdown can be used to fine tool the basic search if too many 
 ![basic search bar](/images/temp_assets/search.PNG)
 
 
-
+### Basic Search(Advanced Option)
 User can also click on the advanced search and enter fields with many parameters.
 After the fields are filled out click the button at the bottom of the screen to perform advanced search
 
 ![advanced search button](/images/temp_assets/advanced_search.PNG)
+
+##### Recommended Search Parameters
+Parameter| Values 
+---|---
+Document file content| Keyword of text inside the document| file content| Keyword of text inside the document
+Document file name | Name of the Document
+Document type label | Type of the document (e.g. QMS Documents)
+Tag label | tag attached to the document(e.g. review_checkout)
+
+
+
+
 

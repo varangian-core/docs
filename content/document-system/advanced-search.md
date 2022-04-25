@@ -49,6 +49,25 @@ If you are an active participant in a review process, then the document can be f
 #### Custom Engine Search
 Lastly, this applications supports whoosh search engine. This means that your basic search tab accept whoosh query language.
 
-Full documentation on whoosh query language can be found here: [Whoose Query Language](https://whoosh.readthedocs.io/en/latest/querylang.html)
+Full documentation on whoosh query language can be found here: [Whoosh Query Language](https://whoosh.readthedocs.io/en/latest/querylang.html)
 Whoosh language highlights:
 
+- Use AND / OR / NOT  in your search:
+```console 
+EMF AND Anodize NOT titanium 
+```
+
+- Search using date ranges:
+```console 
+date:[20210101 TO 20220715] 
+```
+
+- Search using wildcards. "?" replaces a single character, * replace multiple
+```console
+EMF-8?5 OR EMF-*A 
+```
+
+-Emphasizing or emphasizing element of search
+```console
+SOP^10 EMF^0.5 anodizing
+```

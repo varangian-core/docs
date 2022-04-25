@@ -5,7 +5,6 @@ weight: 0
 ---
 ### Basic Search 
 
-Basic 
 
 search bar is available upon login and under home screen view. The user can get to home screen view by click the logo/brand in the top left corner
 

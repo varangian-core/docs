@@ -36,6 +36,19 @@ Select `add to favorites`.
 By clicking on the file, you will get into the file menu. Under `actions` (top right corner button) you can select 'add to favorites'
 ![File Add to Favorites](/images/temp_assets/add_to_favorite.png)
 #### Searching by Tags
+Advanced users may also have access to item tags. Tags help place items into additional categories. 
+![Tags](/images/temp_assets/tags.png)
 #### Searching by Workflows 
+If the documents is part of the control flow, such as `Controlled Documents`, then it can be found inside workflows tab. This tag is only to use that are active participants of said control flow.
+
+![Workflow Documents](/images/temp_assets/workflow.png)
+
 #### Searching by Checkouts
+If you are an active participant in a review process, then the document can be found under check outs.
+![Checkout Tab](/images/temp_assets/checkout.png)
 #### Custom Engine Search
+Lastly, this applications supports whoosh search engine. This means that your basic search tab accept whoosh query language.
+
+Full documentation on whoosh query language can be found here: [Whoose Query Language](https://whoosh.readthedocs.io/en/latest/querylang.html)
+Whoosh language highlights:
+
